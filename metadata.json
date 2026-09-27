@@ -1,0 +1,6 @@
+{
+  "name": "PicturaMP4 - Offline Image to MP4 Studio & Local PC Suite",
+  "description": "Konversi kumpulan foto dan gambar menjadi video MP4 10-60 detik 100% offline tanpa internet dengan WebCodecs dan suite lokal PC Python & FFmpeg siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
